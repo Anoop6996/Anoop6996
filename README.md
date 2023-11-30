@@ -35,7 +35,7 @@ Welcome to my cybersecurity portfolio! I'm Anoop, a computer science diploma hol
 
 ### Offensive Security Certified Professional (OSCP)
 - Awarded by (Certification Authority)
-- Date: Month Year
+- 02/10/2023
 
 ## Contact Information
 
