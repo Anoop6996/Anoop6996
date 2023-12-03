@@ -50,7 +50,7 @@ ITM College
 
 ## Internship Experience
 
-### Ethical Hacking Intern | Internshala (Month Year - Month Year)
+### Ethical Hacking Intern | Internshala (08 2023 - 10 2023)
 
 - Completed a comprehensive ethical hacking course.
 - Gained practical experience in identifying and mitigating security vulnerabilities.
@@ -61,9 +61,27 @@ ITM College
 
 ### [InternshipProject1](https://github.com/YourUsername/InternshipProject1)
 
-- Description: [Brief description of the project]
-- Technologies Used: [List of technologies used]
-- Your Contributions: [Your role and contributions]
+- **Description:**
+  - InternshipProject1 is a web application security enhancement project aimed at identifying and mitigating vulnerabilities in a client's e-commerce platform. The project focused on strengthening the application against common web attacks such as SQL injection, cross-site scripting (XSS), and security misconfigurations.
+
+- **Technologies Used:**
+  - Frontend: HTML5, CSS3, JavaScript
+  - Backend: Node.js, Express.js
+  - Database: MongoDB
+  - Security Tools: OWASP ZAP, Burp Suite
+
+- **Your Contributions:**
+  - As a key member of the security team, my responsibilities included:
+    - Conducting thorough security assessments of the web application.
+    - Identifying and documenting potential vulnerabilities and security risks.
+    - Collaborating with the development team to implement security best practices.
+    - Performing penetration tests to validate the effectiveness of security measures.
+    - Providing recommendations for improving the overall security posture of the application.
+
+This project allowed me to apply my ethical hacking skills in a real-world scenario, contributing to the creation of a more secure and resilient web application.
+
+Feel free to explore the project repository for more detailed information and specific code contributions.
+
 
 ### [InternshipProject2](https://github.com/YourUsername/InternshipProject2)
 
@@ -77,7 +95,7 @@ ITM College
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: (https://www.linkedin.com/in/anoop-kumar-864235145/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
 
 ## Open for Collaboration
